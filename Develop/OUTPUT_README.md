@@ -1,13 +1,16 @@
-# ReadMe-Generator
 
-##  Table of Contents
-[Author Name](#author-name) <br>
-[GitHub Repo](#github-repo) <br>
-[Project Description](#project-description) <br>
-[Usage](#usage) <br>
-[Installation](#installation) <br>
-[Tests](#tests) <br>
-[Contact](#contact)
+  # ReadMe Generator
+
+  ## Table of Contents
+  [Author Name](#author-name) <br>
+  [GitHub Repo](#github-repo) <br>
+  [Project Description](#project-description) <br>
+  [Usage](#usage) <br>
+  [License](#license) <br>
+  [Installation](#installation) <br>
+  [Tests](#tests) <br>
+  [Contact](#contact)
+
 
   ## Author Name
   Mary Villoso
@@ -29,4 +32,3 @@
   npm test
   ## Contact
   Questions? Contact me at mcvilloso@gmail.com 
-
