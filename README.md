@@ -4,6 +4,7 @@
 [GitHub Repo](#github-repo) <br>
 [Project Description](#project-description) <br>
 [Usage](#usage) <br>
+[Preview](#preview) <br>
 [Installation](#installation) <br>
 [Tests](#tests) <br>
 [Contact](#contact)
@@ -12,9 +13,11 @@ Mary Villoso
 ## GitHub Repo
 [marycv](https://github.com/marycv)
 ## Project Description
-This is a read me generator
+This project is a read me generator utilizing Inquirer.js
 ## Usage
-A user is able to use a command-line to create a read me file
+A user is able to use a command-line application which will ask the user a few prompts. The answers to these prompts will be saved and outputted into a read me file.
+## Preview
+
 ## Installation
 npm i
 ## Tests
