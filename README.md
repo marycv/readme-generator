@@ -11,7 +11,7 @@
 ## Author Name
 Mary Villoso
 ## GitHub Repo
-[marycv](https://github.com/marycv)
+[marycv](https://github.com/marycv/readme-generator)
 ## Project Description
 This project is a read me generator utilizing Inquirer.js
 ## Usage
